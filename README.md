@@ -1,2 +1,2 @@
 # UnityCollisionPrediction
-Sample project for predicting collision normals in Unity
+A test project demonstrating basic trajectory prediction
