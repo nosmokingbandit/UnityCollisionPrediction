@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class DynamicBall : MonoBehaviour
+public class KinematicBall : MonoBehaviour
 {
     private CircleCollider2D circleCollider;
     private LineRenderer lineRenderer;
